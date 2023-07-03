@@ -1,0 +1,45 @@
+2023/06/24 09:56:23 Employee{firstName='null', lastName='null', email='null', password='null', id='null'} tried to register , but wasnt confirmed
+2023/06/24 09:56:41 Employee{firstName='null', lastName='null', email='null', password='null', id='null'} tried to register , but wasnt confirmed
+2023/06/24 09:56:51 Employee{firstName='null', lastName='null', email='null', password='null', id='null'} tried to register , but wasnt confirmed
+2023/06/24 09:56:58 Employee{firstName='null', lastName='null', email='null', password='null', id='null'} tried to register , but wasnt confirmed
+2023/06/24 09:57:31 Employee{firstName='null', lastName='null', email='null', password='null', id='null'} tried to register , but wasnt confirmed
+2023/06/24 10:27:46 Employee{firstName='null', lastName='null', email='null', password='null', id='null'} tried to register , but wasnt confirmed
+2023/06/24 10:40:20 Employee{firstName='null', lastName='null', email='null', password='null', id='null'} tried to register , but wasnt confirmed
+2023/06/24 10:47:39 Employee{firstName='null', lastName='null', email='null', password='null', id='null'} tried to register , but wasnt confirmed
+2023/06/24 10:49:54 Employee{firstName='null', lastName='null', email='null', password='null', id='null'} tried to register , but wasnt confirmed
+2023/06/24 10:50:14 Employee{firstName='null', lastName='null', email='null', password='null', id='null'} tried to register , but wasnt confirmed
+2023/06/24 10:51:11 Employee{firstName='null', lastName='null', email='null', password='null', id='null'} tried to register , but wasnt confirmed
+2023/06/24 11:45:37 Employee{firstName='adam', lastName='adam', email='adam@.', password='adam', id='E37556'} was registered
+2023/06/24 11:49:47 Employee{firstName='null', lastName='null', email='adam@.', password='adam', id='null'} logged in
+2023/06/24 13:16:03 Employee{firstName='null', lastName='null', email='adam@.', password='adam', id='null'} logged in
+2023/06/24 13:17:58 Employee{firstName='null', lastName='null', email='adam@.', password='adam', id='null'} logged in
+2023/06/24 13:21:57 Employee{firstName='null', lastName='null', email='adam@.', password='adam', id='null'} logged in
+2023/06/24 13:29:19 Employee{firstName='null', lastName='null', email='adam@.', password='adam', id='null'} logged in
+2023/06/24 14:03:08 Employee{firstName='null', lastName='null', email='adam@.', password='adam', id='null'} logged in
+2023/06/24 14:05:09 Employee{firstName='null', lastName='null', email='adam@.', password='adam', id='null'} logged in
+2023/06/24 14:15:47 Employee{firstName='null', lastName='null', email='adam@.', password='adam', id='null'} logged in
+2023/06/24 14:18:45 Employee{firstName='null', lastName='null', email='adam@.', password='adam', id='null'} logged in
+2023/06/24 14:36:22 Employee{firstName='null', lastName='null', email='adam@.', password='adam', id='null'} logged in
+2023/06/24 14:44:27 Employee{firstName='null', lastName='null', email='adam@.', password='adam', id='null'} logged in
+2023/06/24 14:45:31 Client{firstName='Roman', lastName='Nový', id='E66544', employer='elmesy', email='romannovy@seznam.cz', phone='111 222 333', debt=0.0, address='Nove sady 21 , Brno'} was added
+2023/06/24 15:52:38 Employee{firstName='null', lastName='null', email='adam@.', password='adam', id='null'} logged in
+2023/06/24 15:55:15 Employee{firstName='null', lastName='null', email='adam@.', password='adam', id='null'} logged in
+2023/06/24 16:01:12 Employee{firstName='null', lastName='null', email='adam@.', password='adam', id='null'} logged in
+2023/06/24 16:04:49 Employee{firstName='null', lastName='null', email='adam@.', password='adam', id='null'} logged in
+2023/06/24 16:06:33 Employee{firstName='null', lastName='null', email='adam@.', password='adam', id='null'} logged in
+2023/06/24 16:10:24 Employee{firstName='null', lastName='null', email='adam@.', password='adam', id='null'} logged in
+2023/06/24 16:11:58 Employee{firstName='null', lastName='null', email='adam@.', password='adam', id='null'} logged in
+2023/06/25 10:56:02 Employee{firstName='null', lastName='null', email='adam@.', password='adam¨', id='null'} tried to log in , but wasnt confirmed
+2023/06/25 10:56:05 Employee{firstName='null', lastName='null', email='adam@.', password='adam¨', id='null'} tried to log in , but wasnt confirmed
+2023/06/25 10:56:06 Employee{firstName='null', lastName='null', email='adam@.', password='adam', id='null'} logged in
+2023/06/25 11:14:10 Employee{firstName='null', lastName='null', email='adam@.', password='adam', id='null'} logged in
+2023/06/25 11:21:18 Employee{firstName='null', lastName='null', email='adam@.', password='adam', id='null'} logged in
+2023/06/25 11:25:57 Employee{firstName='null', lastName='null', email='adam@.', password='adam', id='null'} logged in
+2023/06/25 11:30:58 Employee{firstName='null', lastName='null', email='adam@.', password='adam', id='null'} logged in
+2023/06/25 11:35:21 Employee{firstName='null', lastName='null', email='adam@.', password='adam', id='null'} logged in
+2023/06/25 11:36:57 Employee{firstName='null', lastName='null', email='adam@.', password='adam', id='null'} logged in
+2023/06/25 11:41:59 Employee{firstName='null', lastName='null', email='adam@.', password='adam', id='null'} logged in
+2023/06/25 11:44:04 Employee{firstName='null', lastName='null', email='adam@.', password='adam', id='null'} logged in
+2023/06/25 11:45:19 Employee{firstName='null', lastName='null', email='adam@.', password='adam', id='null'} logged in
+2023/06/25 11:48:41 Employee{firstName='null', lastName='null', email='adam@.', password='adam', id='null'} logged in
+2023/06/25 21:09:23 Employee{firstName='null', lastName='null', email='adam@.', password='adam', id='null'} logged in
